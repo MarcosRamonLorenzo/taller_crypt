@@ -1,0 +1,23 @@
+{
+  "name": "taller_crypt",
+  "version": "1.0.0",
+  "description": "Servicio Web de Registro, Autenticación y Autorización. Seguridad",
+  "homepage": "https://github.com/MarcosRamonLorenzo/taller_crypt#readme",
+  "bugs": {
+    "url": "https://github.com/MarcosRamonLorenzo/taller_crypt/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcosRamonLorenzo/taller_crypt.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bcrypt": "^6.0.0"
+  }
+}
